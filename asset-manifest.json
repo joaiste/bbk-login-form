@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/bbk-login-form/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/bbk-login-form/static/js/main.99fa8a32.chunk.js",
-    "main.js.map": "/bbk-login-form/static/js/main.99fa8a32.chunk.js.map",
+    "main.js": "/bbk-login-form/static/js/main.992d0a23.chunk.js",
+    "main.js.map": "/bbk-login-form/static/js/main.992d0a23.chunk.js.map",
     "runtime-main.js": "/bbk-login-form/static/js/runtime-main.8e39cdd3.js",
     "runtime-main.js.map": "/bbk-login-form/static/js/runtime-main.8e39cdd3.js.map",
-    "static/js/2.d1f8a8a1.chunk.js": "/bbk-login-form/static/js/2.d1f8a8a1.chunk.js",
-    "static/js/2.d1f8a8a1.chunk.js.map": "/bbk-login-form/static/js/2.d1f8a8a1.chunk.js.map",
+    "static/js/2.c7961b55.chunk.js": "/bbk-login-form/static/js/2.c7961b55.chunk.js",
+    "static/js/2.c7961b55.chunk.js.map": "/bbk-login-form/static/js/2.c7961b55.chunk.js.map",
     "static/js/3.64067848.chunk.js": "/bbk-login-form/static/js/3.64067848.chunk.js",
     "static/js/3.64067848.chunk.js.map": "/bbk-login-form/static/js/3.64067848.chunk.js.map",
     "index.html": "/bbk-login-form/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/bbk-login-form/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d1f8a8a1.chunk.js.LICENSE.txt": "/bbk-login-form/static/js/2.d1f8a8a1.chunk.js.LICENSE.txt",
+    "static/js/2.c7961b55.chunk.js.LICENSE.txt": "/bbk-login-form/static/js/2.c7961b55.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/bbk-login-form/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e39cdd3.js",
-    "static/js/2.d1f8a8a1.chunk.js",
+    "static/js/2.c7961b55.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.99fa8a32.chunk.js"
+    "static/js/main.992d0a23.chunk.js"
   ]
 }
